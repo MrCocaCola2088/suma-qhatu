@@ -1,2 +1,7 @@
-# suma-qhatu
-Suma Qhatu — alianza verde por Chuquisaca. Sitio del cuaderno solidario de Sucre.
+# Suma Qhatu
+
+Sitio estático de la alianza verde por Chuquisaca.
+
+Publicación: GitHub Pages desde la rama `main`, carpeta raíz.
+
+URL prevista: https://mrcocacola2088.github.io/suma-qhatu/
